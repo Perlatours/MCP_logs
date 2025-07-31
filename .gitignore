@@ -1,0 +1,23 @@
+# Archivos temporales
+*.tmp
+*.log
+*.bak
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor
+*.swp
+*.swo
+*~
+
+# Archivos de backup
+*.backup*
+*.old

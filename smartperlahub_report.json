@@ -1,0 +1,12 @@
+{
+  "created_at": "2025-07-31T16:16:53.327528",
+  "database_file": "smartperlahub.db",
+  "tables": {
+    "restrictions": 72787,
+    "exceptions": 4382,
+    "client_searches": 5000,
+    "provider_searches": 1128,
+    "connector_searches": 3000,
+    "logins": 1128
+  }
+}
